@@ -1,0 +1,5 @@
+PyAutoGUI==0.9.53
+pyperclip==1.8.2
+selenium==4.6.0
+webdriver-manager==3.8.5
+python-decouple==3.6
